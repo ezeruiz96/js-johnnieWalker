@@ -1,0 +1,9 @@
+[
+    {"id": 1 , "nombre": "Red Label"    ,"cantidad": 1  ,"precio": 4000    , "img": "./img/red_new.png"},
+    {"id": 2 , "nombre": "Black Label"  ,"cantidad": 1  ,"precio": 5900    , "img": "./img/black_new.png"},
+    {"id": 3 , "nombre": "Double Black" ,"cantidad": 1  ,"precio": 7500    , "img": "./img/double_black_new.png"},
+    {"id": 4 , "nombre": "Gold Reserve" ,"cantidad": 1  ,"precio": 9500    , "img": "./img/glr_new.png"},
+    {"id": 5 , "nombre": "Green Label"  ,"cantidad": 1  ,"precio": 11500   , "img": "./img/green_new.png"},
+    {"id": 6 , "nombre": "18 Years"     ,"cantidad": 1  ,"precio": 19500   , "img": "./img/ager18yrs.png"},
+    {"id": 7 ,"nombre": "Blue Label"    ,"cantidad": 1  ,"precio": 29650   , "img": "./img/blue_new.png"}
+]
